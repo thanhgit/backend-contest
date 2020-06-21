@@ -1,6 +1,6 @@
 # backend-contest
 ```
-- This is a project for contest of fpt telecom with requirements:
+- This is a project with requirements:
 + Sync state of text file to server
 + Update new version for file
 + View changes of file on server
